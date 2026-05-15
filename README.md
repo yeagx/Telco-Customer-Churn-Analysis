@@ -145,7 +145,7 @@ Nearly half of all churners leave in year 1. Front-loading engagement, perks, an
 ## 📊 Dataset
 
 **Source:** [IBM Watson Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-**Records:** 7,043 customers  
+**Records:** 7,044 customers  
 **Features:** 21 columns (demographics, services, account info, financials)  
 **Target:** `Churn` — whether the customer left within the last month
 
