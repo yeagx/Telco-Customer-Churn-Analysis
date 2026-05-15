@@ -32,6 +32,7 @@ This project was built using AI as a **thinking partner and productivity multipl
 ---
 
 ## 📁 Repository Structure
+```
 telco-churn-analysis/
 │
 ├── 📓 01_preprocessing.ipynb       # Data cleaning, encoding, type fixes, train-test split
@@ -45,7 +46,7 @@ telco-churn-analysis/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 └── 📄 README.md
-
+```
 
 ---
 
